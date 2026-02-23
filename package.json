@@ -1,0 +1,24 @@
+{
+  "name": "atividade-1-ppi",
+  "version": "1.0.0",
+  "description": "Exercicio de salarios",
+  "homepage": "https://github.com/EmanoelBGP/Atividade-1-PPI#readme",
+  "bugs": {
+    "url": "https://github.com/EmanoelBGP/Atividade-1-PPI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmanoelBGP/Atividade-1-PPI.git"
+  },
+  "license": "ISC",
+  "author": "Emanoel",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
